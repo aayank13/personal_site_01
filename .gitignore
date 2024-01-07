@@ -1,0 +1,25 @@
+# Node.js
+node_modules
+
+# Next.js
+/.next
+
+# VSCode
+.vscode
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Build artifacts
+/out
+/build
+
+# npm
+npm-debug.log*
+
